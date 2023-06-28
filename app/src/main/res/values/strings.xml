@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!--  Api response errors  -->
+    <string name="invalid_auth">The given data was invalid.</string>
+    <string name="not_found">Sorry, something went wrong</string>
+    <string name="connection_error">Please check your internet connection</string>
+
+    <!-- Home Screen  -->
+    <string name="home">Home</string>
+    <string name="humidity">Humidity</string>
+    <string name="today">Today</string>
+    <string name="visibility">Visibility</string>
+    <string name="km">km</string>
+    <string name="km_h">km / h</string>
+    <string name="feels_like">Feels like</string>
+
+    <!--  Search Screen  -->
+    <string name="search">Search</string>
+    <string name="search_caption">Find the city name or state code that you want to know the detailed weather info at this time</string>
+    <string name="error">Error</string>
+    <string name="invalid_city">You\'ve entered invalid city name, try search again with correct name</string>
+    <string name="ok">OK</string>
+
+    <!-- Settings Screen   -->
+    <string name="settings">Settings</string>
+    <string name="temp_unit">Temperature unit</string>
+    <string name="city">City</string>
+    <string name="language">Language</string>
+    <string name="cancel">Cancel</string>
+    <string name="temperature">Temperature</string>
+
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+
+
+    <string name="celsius">Celsius (°C)</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+
+    <!--  City Screen  -->
+    <string name="city_caption">Add the city name or state code that you want to save it in home screen</string>
+    <string name="enter_city">City name</string>
+    <string name="add">Add</string>
+    <string name="suggested">Suggested Cities</string>
+    <string name="city_saved">has been saved</string>
+    <string name="cairo">Cairo</string>
+    <string name="london">London</string>
+    <string name="paris">Paris</string>
+    <string name="san_francisco">San Francisco</string>
+    <string name="washington">Washington</string>
+    <string name="alexandria">Alexandria</string>
+    <string name="luxor">Luxor</string>
+    <string name="giza">Giza</string>
+    <string name="madrid">Madrid</string>
+    <string name="saint_petersburg">Saint Petersburg</string>
+    <string name="rome">Rome</string>
+    <string name="kuwait">Kuwait</string>
+    <string name="pakistan">Pakistan</string>
+    <string name="dark_theme">Enable dark theme</string>
+
+    <string name="wishlist">Wishlist</string>
+    <string name="more">More</string>
+
+    <!--  Details Screen  -->
+    <string name="current_air">Current Air Quality</string>
+    <string name="air_quailty_index_des"> Think of the AQI as a yardstick that runs from 1 to 5. For example, an AQI value of 1 represents good air quality, while an AQI value over 4 represents hazardous air quality.</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="moderate">Moderate</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    <string name="current_pollutants">Current Pollutants</string>
+    <string name="current_cloudiness">Current Cloudiness</string>
+    <string name="aqi">AQI</string>
+
+    <string name="ozone">Ozone, or trioxygen, is an inorganic molecule with the chemical formula O3. It is a pale blue gas with a distinctively pungent smell.</string>
+    <string name="particulates_matter2.5">Particulates also known as particulate matter (PM) are microscopic particles of solid or liquid matter suspended in the air.</string>
+    <string name="particulates_matter10">So called fine particulate matter (PM2.5), tends to penetrate into the gas exchange regions of the lung.</string>
+    <string name="nitrogen_dioxide">Nitrogen dioxide is a chemical compound with the formula NO2. It is one of several nitrogen oxides.</string>
+    <string name="title_five_days">5 days forecast</string>
+    <string name="user_preference">user preference</string>
+
+
+</resources>
