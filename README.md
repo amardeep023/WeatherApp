@@ -78,7 +78,7 @@ Jetpack Compose [The modern ui toolkit for building native ui on android].
 ```html
 MIT Licence 
 
-Copyright (c) 2022 Ahmed Zaki
+Copyright (c) 2023 Amardeep Yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
 and associated documentation files (the "Software"), to deal in the Software without restriction,
